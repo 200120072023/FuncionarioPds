@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Funcionario-Lucas-API.props" />
+</Project>
